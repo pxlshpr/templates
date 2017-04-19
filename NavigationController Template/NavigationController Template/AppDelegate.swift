@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  NavigationController Template
-//
-//  Created by Ahmed Khalaf on 19/4/17.
-//  Copyright © 2017 pxlshpr. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
@@ -65,5 +57,3 @@ class Navigation {
     self.navigationController.pushViewController(viewController, animated: false)
   }
 }
-
-
